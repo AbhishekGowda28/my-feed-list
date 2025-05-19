@@ -1,2 +1,5 @@
 # scrapper
-List of all my scraps
+
+## TotalTypescript
+<!-- TotalTypescript:START -->
+<!-- TotalTypescript:END -->
