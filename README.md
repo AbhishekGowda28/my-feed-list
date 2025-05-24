@@ -13,6 +13,11 @@
 
 ## Old feeds
 <!-- old-sub:START -->
+- [22.00.0122 Email](https://johnnydecimal.com/22.00.0122/)
+- [22.00.0121 Things: processing your categories - part 3 🎬](https://johnnydecimal.com/22.00.0121/)
+- [22.00.0120 Backups [SBS.14.23]](https://johnnydecimal.com/22.00.0120/)
+- [22.00.0119 Synchronisation [SBS.14.22]](https://johnnydecimal.com/22.00.0119/)
+- [22.00.0118 RSS: a public service announcement](https://johnnydecimal.com/22.00.0118/)
 <!-- old-sub:END -->
 
 ## Paul Grahm feeds
