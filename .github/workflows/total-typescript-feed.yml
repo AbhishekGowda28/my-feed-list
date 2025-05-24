@@ -1,14 +1,14 @@
-name: Latest blog post workflow
+name: Latest blog post of TOTAL-TYPESCRIPT
 on:
   schedule: # Run workflow automatically
-    - cron: '59 23 * * *' # At 23:59 every day
+    - cron: '* * * * thu' # every thursday
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
   contents: write # To write the generated contents to the readme
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Updated README with latest blog posts from total-typescript feed
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -17,3 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.totaltypescript.com/rss.xml"
+          comment_tag_name: "TotalTypescript"
