@@ -18,8 +18,10 @@ jobs:
         with:
           feed_list: "https://www.joelonsoftware.com/feed/, https://ilya.grigorik.com/essays/rss/, https://johnnydecimal.com/rss.xml, https://ethical.net/feed/"
           comment_tag_name: "old-sub"
+          max_post_count: 10
       - name: Pull in posts of Paul Grahm
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "http://www.aaronsw.com/2002/feeds/pgessays.rss"
           comment_tag_name: "paulgraham"
+          disable_sort: true
