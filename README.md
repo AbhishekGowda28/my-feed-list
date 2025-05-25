@@ -28,6 +28,11 @@
 ## Paul Grahm feeds
 
 <!-- paulgraham:START -->
+- [Superlinear Returns](http://www.paulgraham.com/superlinear.html)
+- [How to Do Great Work](http://www.paulgraham.com/greatwork.html)
+- [How to Get New Ideas](http://www.paulgraham.com/getideas.html)
+- [The Need to Read](http://www.paulgraham.com/read.html)
+- [What You &lpar;Want to&rpar;* Want](http://www.paulgraham.com/want.html)
 <!-- paulgraham:END -->
 
 ## Martin Fowler feed
