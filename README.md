@@ -18,6 +18,11 @@
 - [22.00.0120 Backups [SBS.14.23]](https://johnnydecimal.com/22.00.0120/)
 - [22.00.0119 Synchronisation [SBS.14.22]](https://johnnydecimal.com/22.00.0119/)
 - [22.00.0118 RSS: a public service announcement](https://johnnydecimal.com/22.00.0118/)
+- [22.00.0117 Things: principles and priorities - part 2 🎬](https://johnnydecimal.com/22.00.0117/)
+- [22.00.0116 Data [SBS.14.22]](https://johnnydecimal.com/22.00.0116/)
+- [22.00.0115 Storage, data, &amp; backups [SBS.14.20]](https://johnnydecimal.com/22.00.0115/)
+- [22.00.0114 Things: processing your inbox - part 1 🎬](https://johnnydecimal.com/22.00.0114/)
+- [22.00.0113 Managing customer data &lpar;especially exceptions&rpar;](https://johnnydecimal.com/22.00.0113/)
 <!-- old-sub:END -->
 
 ## Paul Grahm feeds
