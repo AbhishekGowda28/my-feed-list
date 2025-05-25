@@ -25,8 +25,14 @@
 <!-- paulgraham:START -->
 <!-- paulgraham:END -->
 
+## Martin Fowler feed
+
+<!-- martinfowler:START -->
+<!-- martinfowler:END -->
+
 ## Bookmarks
 
+- [Hacker News](https://news.ycombinator.com/)
 - [Old mans advice](https://www.youtube.com/watch?v=9fvETktnaRw)
 - [National digital library of India](https://ndl.iitkgp.ac.in/)
 - [Pair drop - Sharing locally](https://pairdrop.net/)
@@ -34,14 +40,17 @@
 - [coveryourtracks](https://coveryourtracks.eff.org/learn)
 
 
-## Someday maybe links
-
-- [How to keep work notes](https://duckduckgo.com/?q=how+to+keep+work+notes&t=ffab&atb=v393-7&ia=web)
-- [how to keep field notes as software engineer](https://duckduckgo.com/?q=how+to+keep+field+notes+as+software+engineer&t=ffab&atb=v393-7&ia=web)
 
 <details>
   <summary>TIL</summary>
 <ul>
 <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver">MutationObserver</a></li>
 </ul>
+
+- [How to keep work notes](https://duckduckgo.com/?q=how+to+keep+work+notes&t=ffab&atb=v393-7&ia=web)
+- [how to keep field notes as software engineer](https://duckduckgo.com/?q=how+to+keep+field+notes+as+software+engineer&t=ffab&atb=v393-7&ia=web)
+
+- [Songs Playlist](https://youtube.com/playlist?list=PLSuEQCXg0kFh_4HtZbTGzjhwL1XxBjzuU)
+
 </details>
+

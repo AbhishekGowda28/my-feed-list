@@ -18,3 +18,10 @@ jobs:
         with:
           feed_list: "https://www.totaltypescript.com/rss.xml"
           comment_tag_name: "TotalTypescript"
+      - name: Pull in posts of Martin Fowler
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://martinfowler.com/feed.atom"
+          comment_tag_name: "martinfowler"
+          disable_sort: true
+          disable_item_validation: true
