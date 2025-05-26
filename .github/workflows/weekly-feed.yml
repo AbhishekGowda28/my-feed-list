@@ -25,9 +25,3 @@ jobs:
           comment_tag_name: "martinfowler"
           disable_sort: true
           disable_item_validation: true
-      - name: Addy Osmani Feeds
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCfetJpmQH2XpFj8uFgWsezw, https://addyosmani.com/feed.xml, https://addyo.substack.com/feed, https://dev.to/feed/addyosmani, https://news.google.com/rss/search?q=site:twitter.com/addyosmani&hl=en-US&gl=US&ceid=US:en",
-          comment_tag_name: "addyo"
-          max_post_count: 10
