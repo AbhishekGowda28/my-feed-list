@@ -3,11 +3,11 @@
 ## TotalTypescript
 
 <!-- TotalTypescript:START -->
+- [6 TypeScript tips to turn you into a WIZARD](https://www.youtube.com/watch?v=lraHlXpuhKs)
+- [Arrays, objects... now ‘composites’?](https://www.youtube.com/watch?v=hFenspfGLTk)
 - [Cursor Rules for Better AI Development &lpar;article&rpar;](https://www.totaltypescript.com/cursor-rules-for-better-ai-development)
-- [Should You Declare Return Types? &lpar;article&rpar;](https://www.totaltypescript.com/should-you-declare-return-types)
-- [TypeScript Announces Go Rewrite, Achieves 10x Speedup &lpar;article&rpar;](https://www.totaltypescript.com/typescript-announces-go-rewrite)
-- [TypeScript 5.8 Ships --erasableSyntaxOnly To Disable Enums &lpar;article&rpar;](https://www.totaltypescript.com/erasable-syntax-only)
-- [Node.js Now Supports TypeScript By Default &lpar;article&rpar;](https://www.totaltypescript.com/typescript-is-coming-to-node-23)
+- [Types vs Interfaces: What I Got Wrong In 2022](https://www.youtube.com/watch?v=e0AIkYrXAYE)
+- [Zod 4 is out, and it is CRAZY](https://www.youtube.com/watch?v=xcm53k0ePmY)
 <!-- TotalTypescript:END -->
 
 ## Paul Grahm feeds
