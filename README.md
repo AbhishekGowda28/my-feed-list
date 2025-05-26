@@ -33,6 +33,16 @@
 ## Addy Osmani
 
 <!-- addyo:START -->
+- [Introducing &quot;Ask AI&quot; across Chrome DevTools + save changes directly to your source code!](https://www.youtube.com/watch?v=NfvFpdjWb0Y)
+- [Gemini 2.5 Pro has swept the LMArena leaderboard in all categories. It&#39;s #1 on WebDev Arena for coding too. - X](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Id2QxWWRlU1hraHJkeW1NQml4R1dJUTBqOExaQW1pdHYweW83UjhfVmYzYjQzeEZSYUxpZ1NaWjFxUC0xSk5XZ19EWkthUW52Zk80V1Z1em1NbThKZEx5T3llYW1KMTIt?oc=5)
+- [Want to help us set a Guinness World Record? Join the @boltdotnew hackathon! $1M+ in prizes. Register at http://hackathon.dev to join. Excited to be judging. Enjoy a little #veo2 teaser I created for it. - X](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xOWpYczVzOGRJMF81b1FDMkRGcWJpOEFSMXAtQWo3cHJKT2kzbloweFVfVUpBMFVmRTNiT0dfYlVRRkgzXzc3Z3NQcEF1cDc5MzhYb3M3WkFYa0VyQUs2NjRZS04tbTZU?oc=5)
+- [Gemini 2.5 Pro builds a React Movie app with Auth in under 8 mins](https://www.youtube.com/watch?v=PIZVMiUOucY)
+- [Cover Flow with Modern CSS: Scroll-Driven Animations in Action](https://addyosmani.com/blog/coverflow/)
+- [AI-Assisted Engineering: My 2025 Substack Recap](https://addyosmani.com/blog/ai-assisted-engineering/)
+- [This is the sequel to &quot;The 70% problem: Hard truths about AI-assisted coding&quot;: - X](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZRV9SSkhxS2pqZnp5U2FDRkY1b2o2ZlI1VkZYa0lQajZLV3Y2WFZxd2tuWUZmdnRmSFFGUjNQX3BYRno1UkVGdGJkUDNsWVZwNkZJUnZQUWN1VXdBci1RRlU1OGZYTzEt?oc=5)
+- [The Art of Tech Interviewing](https://addyosmani.com/blog/art-tech-interviews/)
+- [The @ChromeDevTools Performance panel now highlights first &amp; third-party data &lpar;plus extensions!&rpar; in the Summary tab. Hover to see events highlighted in the trace. &quot;Dim 3rd parties&quot; to focus on your own code. - X](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TSUQ1MmFKejhBTGtNZmtuLTZKWDhNeWpoOVNZcDJUdHZlZWdaUDFkdTl5ZkViVG5hOWI1aDlKVU1oaDhiVVlRQ0tGRXBPcXU4MndiV1U1S2VlU2tiaHJVNDN3RnNTSXd1?oc=5)
+- [Service Reliability Mathematics](https://addyosmani.com/blog/service-reliability/)
 <!-- addyo:END -->
 
 
