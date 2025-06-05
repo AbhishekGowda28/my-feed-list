@@ -3,11 +3,11 @@
 ## TotalTypescript
 
 <!-- TotalTypescript:START -->
+- [Agents are dead, long live workflows](https://www.youtube.com/watch?v=b2ntTXVlGQk)
 - [This language is AMAZING for building AI agents](https://www.youtube.com/watch?v=uNkv2t6c40o)
 - [Your types can&#39;t hide from me #2](https://www.youtube.com/watch?v=E2T_MkeITsA)
 - [Open source libraries you have to know - Arktype](https://www.youtube.com/watch?v=n3J28iswOjs)
 - [The TypeScript hill I&#39;m willing to die on](https://www.youtube.com/watch?v=kB-r-alEmtw)
-- [Feed me your TypeScript problems, I&#39;m hungry](https://www.youtube.com/watch?v=irOgiE6wkP8)
 <!-- TotalTypescript:END -->
 
 ## Paul Grahm feeds
