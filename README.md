@@ -23,11 +23,11 @@
 ## Martin Fowler feed
 
 <!-- martinfowler:START -->
+- [Autonomous coding agents: A Codex example](https://martinfowler.com/articles/exploring-gen-ai/autonomous-agents-codex-example.html)
+- [Should I still use analytics?](https://martinfowler.com/articles/202506-whither-analytics.html)
 - [Bliki: Say Your Writing](https://martinfowler.com/bliki/SayYourWriting.html)
 - [Interviewed by James Lewis at goto Copenhagen](https://www.youtube.com/watch?v=xsMUuOwv7IA)
 - [Refresh of Agile Threat Modeling](https://martinfowler.com/articles/agile-threat-modelling.html)
-- [Building Custom Tooling with LLMs](https://martinfowler.com/articles/exploring-gen-ai/16-building-custom-tooling-with-llms.html)
-- [Coding Assistants Threaten the Software Supply Chain](https://martinfowler.com/articles/exploring-gen-ai/software-supply-chain-attack-surface.html)
 <!-- martinfowler:END -->
 
 ## Addy Osmani
