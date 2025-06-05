@@ -3,11 +3,11 @@
 ## TotalTypescript
 
 <!-- TotalTypescript:START -->
-- [6 TypeScript tips to turn you into a WIZARD](https://www.youtube.com/watch?v=lraHlXpuhKs)
-- [Arrays, objects... now ‘composites’?](https://www.youtube.com/watch?v=hFenspfGLTk)
-- [Cursor Rules for Better AI Development &lpar;article&rpar;](https://www.totaltypescript.com/cursor-rules-for-better-ai-development)
-- [Types vs Interfaces: What I Got Wrong In 2022](https://www.youtube.com/watch?v=e0AIkYrXAYE)
-- [Zod 4 is out, and it is CRAZY](https://www.youtube.com/watch?v=xcm53k0ePmY)
+- [This language is AMAZING for building AI agents](https://www.youtube.com/watch?v=uNkv2t6c40o)
+- [Your types can&#39;t hide from me #2](https://www.youtube.com/watch?v=E2T_MkeITsA)
+- [Open source libraries you have to know - Arktype](https://www.youtube.com/watch?v=n3J28iswOjs)
+- [The TypeScript hill I&#39;m willing to die on](https://www.youtube.com/watch?v=kB-r-alEmtw)
+- [Feed me your TypeScript problems, I&#39;m hungry](https://www.youtube.com/watch?v=irOgiE6wkP8)
 <!-- TotalTypescript:END -->
 
 ## Paul Grahm feeds
