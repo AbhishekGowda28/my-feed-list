@@ -3,11 +3,11 @@
 ## TotalTypescript
 
 <!-- TotalTypescript:START -->
+- [You can DO that in Node #2](https://www.youtube.com/watch?v=Q1_7IPXoG1s)
 - [This library makes building AI-powered apps EASY](https://www.youtube.com/watch?v=hQeFamY1308)
 - [Building AI Apps That Don&#39;t Suck - Handoffs](https://www.youtube.com/watch?v=CK6t1goWxw8)
 - [TypeScript is the language of OpenAI&#39;s multi-agent framework](https://www.youtube.com/watch?v=JMkYMiSSlkA)
 - [Building LLM apps that don&#39;t suck - Guardrails](https://www.youtube.com/watch?v=Q9I8sMfq-FM)
-- [OpenAI is getting serious about TypeScript](https://www.youtube.com/watch?v=PA-Kqfi4uCk)
 <!-- TotalTypescript:END -->
 
 ## Paul Grahm feeds
