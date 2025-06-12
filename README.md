@@ -3,11 +3,11 @@
 ## TotalTypescript
 
 <!-- TotalTypescript:START -->
-- [Mastra, the AWESOME new TypeScript AI Agent framework](https://www.youtube.com/watch?v=8iNgc1-PwMk)
-- [Agents are dead, long live workflows](https://www.youtube.com/watch?v=b2ntTXVlGQk)
-- [This language is AMAZING for building AI agents](https://www.youtube.com/watch?v=uNkv2t6c40o)
-- [Your types can&#39;t hide from me #2](https://www.youtube.com/watch?v=E2T_MkeITsA)
-- [Open source libraries you have to know - Arktype](https://www.youtube.com/watch?v=n3J28iswOjs)
+- [This library makes building AI-powered apps EASY](https://www.youtube.com/watch?v=hQeFamY1308)
+- [Building AI Apps That Don&#39;t Suck - Handoffs](https://www.youtube.com/watch?v=CK6t1goWxw8)
+- [TypeScript is the language of OpenAI&#39;s multi-agent framework](https://www.youtube.com/watch?v=JMkYMiSSlkA)
+- [Building LLM apps that don&#39;t suck - Guardrails](https://www.youtube.com/watch?v=Q9I8sMfq-FM)
+- [OpenAI is getting serious about TypeScript](https://www.youtube.com/watch?v=PA-Kqfi4uCk)
 <!-- TotalTypescript:END -->
 
 ## Paul Grahm feeds
