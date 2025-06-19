@@ -3,11 +3,11 @@
 ## TotalTypescript
 
 <!-- TotalTypescript:START -->
+- [Here&#39;s a NASTY UX problem in most AI-powered apps](https://www.youtube.com/watch?v=C9qjWgh7aEE)
 - [AI app devs HAVE to know about this tool](https://www.youtube.com/shorts/mLswSaigQHQ)
 - [The one indispensable tool to any AI app developer - Observability](https://www.youtube.com/watch?v=PxV1swOlcvI)
 - [This library is ESSENTIAL for building AI apps in TypeScript](https://www.youtube.com/watch?v=fllVY1HqVCU)
 - [The bitter lesson](https://www.youtube.com/watch?v=HtsFKx9mAu8)
-- [Your types cannot hide from the wizard #3](https://www.youtube.com/watch?v=BRe7TbqyAGg)
 <!-- TotalTypescript:END -->
 
 ## Paul Grahm feeds
