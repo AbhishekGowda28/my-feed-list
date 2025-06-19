@@ -3,11 +3,11 @@
 ## TotalTypescript
 
 <!-- TotalTypescript:START -->
-- [You can DO that in Node?! #2](https://www.youtube.com/shorts/Q1_7IPXoG1s)
-- [This library makes building AI-powered apps EASY](https://www.youtube.com/watch?v=hQeFamY1308)
-- [Building AI Apps That Don&#39;t Suck - Handoffs](https://www.youtube.com/watch?v=CK6t1goWxw8)
-- [TypeScript is the language of OpenAI&#39;s multi-agent framework](https://www.youtube.com/watch?v=JMkYMiSSlkA)
-- [Building LLM apps that don&#39;t suck - Guardrails](https://www.youtube.com/watch?v=Q9I8sMfq-FM)
+- [The one indispensable tool to any AI app developer - Observability](https://www.youtube.com/watch?v=PxV1swOlcvI)
+- [This library is ESSENTIAL for building AI apps in TypeScript](https://www.youtube.com/watch?v=fllVY1HqVCU)
+- [The bitter lesson](https://www.youtube.com/watch?v=HtsFKx9mAu8)
+- [Your types cannot hide from the wizard #3](https://www.youtube.com/watch?v=BRe7TbqyAGg)
+- [Here&#39;s a CRAZY bit of TypeScript magic](https://www.youtube.com/watch?v=_Wb8VF-M4go)
 <!-- TotalTypescript:END -->
 
 ## Paul Grahm feeds
