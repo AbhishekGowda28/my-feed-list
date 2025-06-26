@@ -3,11 +3,11 @@
 ## TotalTypescript
 
 <!-- TotalTypescript:START -->
-- [Here&#39;s a NASTY UX problem in most AI-powered apps](https://www.youtube.com/watch?v=C9qjWgh7aEE)
+- [The ESSENTIAL resource for improving your prompting](https://www.youtube.com/shorts/fhCEwk7NmC0)
+- [The AI Engineer mindset is WILD](https://www.youtube.com/shorts/EjjPMHwPRlw)
+- [Here&#39;s a NASTY UX problem in most AI-powered apps](https://www.youtube.com/shorts/C9qjWgh7aEE)
 - [AI app devs HAVE to know about this tool](https://www.youtube.com/shorts/mLswSaigQHQ)
-- [The one indispensable tool to any AI app developer - Observability](https://www.youtube.com/watch?v=PxV1swOlcvI)
-- [This library is ESSENTIAL for building AI apps in TypeScript](https://www.youtube.com/watch?v=fllVY1HqVCU)
-- [The bitter lesson](https://www.youtube.com/watch?v=HtsFKx9mAu8)
+- [The one indispensable tool to any AI app developer - Observability](https://www.youtube.com/shorts/PxV1swOlcvI)
 <!-- TotalTypescript:END -->
 
 ## Paul Grahm feeds
