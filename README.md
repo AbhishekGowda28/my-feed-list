@@ -23,11 +23,11 @@
 ## Martin Fowler feed
 
 <!-- martinfowler:START -->
+- [Growing Expert Generalists](https://martinfowler.com/articles/expert-generalist.html#GrowingExpertGeneralists)
+- [LLMs bring new nature of abstraction](https://martinfowler.com/articles/2025-nature-abstraction.html)
+- [Assessing Expert Generalists](https://martinfowler.com/articles/expert-generalist.html#AssessingExpertGeneralists)
 - [Expert Generalists: three more characteristics](https://martinfowler.com/articles/expert-generalist.html#FavorFundamentalKnowledge)
 - [Expert Generalists: first three characteristics](https://martinfowler.com/articles/expert-generalist.html)
-- [Autonomous coding agents: A Codex example](https://martinfowler.com/articles/exploring-gen-ai/autonomous-agents-codex-example.html)
-- [Should I still use analytics?](https://martinfowler.com/articles/202506-whither-analytics.html)
-- [Bliki: Say Your Writing](https://martinfowler.com/bliki/SayYourWriting.html)
 <!-- martinfowler:END -->
 
 ## Addy Osmani
