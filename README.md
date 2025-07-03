@@ -3,11 +3,11 @@
 ## TotalTypescript
 
 <!-- TotalTypescript:START -->
+- [Most companies are NOT READY for background agents](https://www.youtube.com/shorts/xnUYnd-Pgeg)
 - [The unreadable library that captured my heart](https://www.youtube.com/shorts/UW13VOdqb7o)
 - [Effect: the unreadable library that captured my heart](https://www.youtube.com/watch?v=S2GChOwivwQ)
 - [The ESSENTIAL resource for improving your prompting](https://www.youtube.com/shorts/fhCEwk7NmC0)
 - [The AI Engineer mindset is WILD](https://www.youtube.com/shorts/EjjPMHwPRlw)
-- [Here&#39;s a NASTY UX problem in most AI-powered apps](https://www.youtube.com/shorts/C9qjWgh7aEE)
 <!-- TotalTypescript:END -->
 
 ## Paul Grahm feeds
