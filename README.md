@@ -3,11 +3,11 @@
 ## TotalTypescript
 
 <!-- TotalTypescript:START -->
+- [The unreadable library that captured my heart](https://www.youtube.com/shorts/UW13VOdqb7o)
+- [Effect: the unreadable library that captured my heart](https://www.youtube.com/watch?v=S2GChOwivwQ)
 - [The ESSENTIAL resource for improving your prompting](https://www.youtube.com/shorts/fhCEwk7NmC0)
 - [The AI Engineer mindset is WILD](https://www.youtube.com/shorts/EjjPMHwPRlw)
 - [Here&#39;s a NASTY UX problem in most AI-powered apps](https://www.youtube.com/shorts/C9qjWgh7aEE)
-- [AI app devs HAVE to know about this tool](https://www.youtube.com/shorts/mLswSaigQHQ)
-- [The one indispensable tool to any AI app developer - Observability](https://www.youtube.com/shorts/PxV1swOlcvI)
 <!-- TotalTypescript:END -->
 
 ## Paul Grahm feeds
