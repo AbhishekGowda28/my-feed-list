@@ -23,11 +23,11 @@
 ## Martin Fowler feed
 
 <!-- martinfowler:START -->
+- [Why Organizations Need Expert Generalists](https://martinfowler.com/articles/expert-generalist.html#WhyOrganizationsNeedExpertGeneralists)
+- [Expert Generalists need specialists &lpar;and LLMs&rpar;](https://martinfowler.com/articles/expert-generalist.html#ExpertGeneralistsStillNeedSpecialists)
 - [Growing Expert Generalists](https://martinfowler.com/articles/expert-generalist.html#GrowingExpertGeneralists)
 - [LLMs bring new nature of abstraction](https://martinfowler.com/articles/2025-nature-abstraction.html)
 - [Assessing Expert Generalists](https://martinfowler.com/articles/expert-generalist.html#AssessingExpertGeneralists)
-- [Expert Generalists: three more characteristics](https://martinfowler.com/articles/expert-generalist.html#FavorFundamentalKnowledge)
-- [Expert Generalists: first three characteristics](https://martinfowler.com/articles/expert-generalist.html)
 <!-- martinfowler:END -->
 
 ## Addy Osmani
