@@ -23,11 +23,11 @@
 ## Martin Fowler feed
 
 <!-- martinfowler:START -->
+- [Three worthwhile articles yesterday](https://martinfowler.com/articles/202507-three-links.html)
 - [I still care about the code](https://martinfowler.com/articles/exploring-gen-ai/i-still-care-about-the-code.html)
 - [Why Organizations Need Expert Generalists](https://martinfowler.com/articles/expert-generalist.html#WhyOrganizationsNeedExpertGeneralists)
 - [Expert Generalists need specialists &lpar;and LLMs&rpar;](https://martinfowler.com/articles/expert-generalist.html#ExpertGeneralistsStillNeedSpecialists)
 - [Growing Expert Generalists](https://martinfowler.com/articles/expert-generalist.html#GrowingExpertGeneralists)
-- [LLMs bring new nature of abstraction](https://martinfowler.com/articles/2025-nature-abstraction.html)
 <!-- martinfowler:END -->
 
 ## Addy Osmani
