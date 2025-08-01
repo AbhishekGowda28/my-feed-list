@@ -69,6 +69,7 @@
 
 ## Old feeds
 <!-- old-sub:START -->
+- [22.00.0124 Be who you are](https://johnnydecimal.com/22.00.0124/)
 - [22.00.0123 Online reviews are dead](https://johnnydecimal.com/22.00.0123/)
 - [22.00.0122 Email](https://johnnydecimal.com/22.00.0122/)
 - [22.00.0121 Things: processing your categories - part 3 🎬](https://johnnydecimal.com/22.00.0121/)
@@ -78,5 +79,4 @@
 - [22.00.0117 Things: principles and priorities - part 2 🎬](https://johnnydecimal.com/22.00.0117/)
 - [22.00.0116 Data [SBS.14.22]](https://johnnydecimal.com/22.00.0116/)
 - [22.00.0115 Storage, data, &amp; backups [SBS.14.20]](https://johnnydecimal.com/22.00.0115/)
-- [22.00.0114 Things: processing your inbox - part 1 🎬](https://johnnydecimal.com/22.00.0114/)
 <!-- old-sub:END -->
