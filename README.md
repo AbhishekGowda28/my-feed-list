@@ -23,11 +23,11 @@
 ## Martin Fowler feed
 
 <!-- martinfowler:START -->
+- [Quick but worthwhile links](https://martinfowler.com/articles/20250806-links.html)
+- [Actions to improve impact intelligence](https://martinfowler.com/articles/impact-intel.html#ActionsToImproveImpactIntelligence)
 - [The Reformist CTO’s Guide to Impact Intelligence](https://martinfowler.com/articles/impact-intel.html)
 - [How far can we push AI autonomy in code generation?](https://martinfowler.com/articles/pushing-ai-autonomy.html)
 - [Partner with the AI, throw away the code](https://martinfowler.com/articles/exploring-gen-ai/partner-with-ai-and-throw-away-the-code.html)
-- [Who is LLM](https://martinfowler.com/articles/who-is-llm.html)
-- [Generative AI in software and essaying](https://martinfowler.com/articles/20250721-links.html)
 <!-- martinfowler:END -->
 
 ## Addy Osmani
