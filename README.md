@@ -23,11 +23,11 @@
 ## Martin Fowler feed
 
 <!-- martinfowler:START -->
+- [Bliki: Expansion Joints](https://martinfowler.com/bliki/ExpansionJoints.html)
 - [Team OKRs in Action](https://martinfowler.com/articles/team-okr.html)
 - [Impact Intelligence, addressing common objections](https://martinfowler.com/articles/impact-intel.html#objections)
 - [Quick but worthwhile links](https://martinfowler.com/articles/20250806-links.html)
 - [Actions to improve impact intelligence](https://martinfowler.com/articles/impact-intel.html#ActionsToImproveImpactIntelligence)
-- [The Reformist CTO’s Guide to Impact Intelligence](https://martinfowler.com/articles/impact-intel.html)
 <!-- martinfowler:END -->
 
 ## Addy Osmani
