@@ -23,11 +23,11 @@
 ## Martin Fowler feed
 
 <!-- martinfowler:START -->
+- [Research, Review, Rebuild: Intelligent Modernisation with MCP and Strategic Prompting](https://martinfowler.com/articles/research-review-rebuild.html)
+- [Building your own CLI Coding Agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html)
+- [Chatting with Unmesh about building language with LLMs](https://martinfowler.com/articles/convo-llm-abstractions.html)
 - [Bliki: Expansion Joints](https://martinfowler.com/bliki/ExpansionJoints.html)
 - [Team OKRs in Action](https://martinfowler.com/articles/team-okr.html)
-- [Impact Intelligence, addressing common objections](https://martinfowler.com/articles/impact-intel.html#objections)
-- [Quick but worthwhile links](https://martinfowler.com/articles/20250806-links.html)
-- [Actions to improve impact intelligence](https://martinfowler.com/articles/impact-intel.html#ActionsToImproveImpactIntelligence)
 <!-- martinfowler:END -->
 
 ## Addy Osmani
