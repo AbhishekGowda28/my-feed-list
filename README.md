@@ -23,11 +23,11 @@
 ## Martin Fowler feed
 
 <!-- martinfowler:START -->
+- [From Black Box to Blueprint](https://martinfowler.com/articles/black-box-to-blueprint.html)
 - [Research, Review, Rebuild: Intelligent Modernisation with MCP and Strategic Prompting](https://martinfowler.com/articles/research-review-rebuild.html)
 - [Building your own CLI Coding Agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html)
 - [Chatting with Unmesh about building language with LLMs](https://martinfowler.com/articles/convo-llm-abstractions.html)
 - [Bliki: Expansion Joints](https://martinfowler.com/bliki/ExpansionJoints.html)
-- [Team OKRs in Action](https://martinfowler.com/articles/team-okr.html)
 <!-- martinfowler:END -->
 
 ## Addy Osmani
