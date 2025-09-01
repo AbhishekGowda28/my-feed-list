@@ -69,14 +69,14 @@
 
 ## Old feeds
 <!-- old-sub:START -->
+- [15.04 Small Business System](https://johnnydecimal.com/10-19-concepts/15-patterns-templates/15.04-small-business-system/)
+- [15.03 Life Admin System](https://johnnydecimal.com/10-19-concepts/15-patterns-templates/15.03-life-admin-system/)
+- [22.00.0125 I created my own platform](https://johnnydecimal.com/22.00.0125/)
+- [01.03 Policies](https://johnnydecimal.com/00-09-site-administration/01-about/01.03-policies/)
 - [22.00.0124 Be who you are](https://johnnydecimal.com/22.00.0124/)
 - [22.00.0123 Online reviews are dead](https://johnnydecimal.com/22.00.0123/)
 - [22.00.0122 Email](https://johnnydecimal.com/22.00.0122/)
 - [22.00.0121 Things: processing your categories - part 3 🎬](https://johnnydecimal.com/22.00.0121/)
 - [22.00.0120 Backups [SBS.14.23]](https://johnnydecimal.com/22.00.0120/)
 - [22.00.0119 Synchronisation [SBS.14.22]](https://johnnydecimal.com/22.00.0119/)
-- [22.00.0118 RSS: a public service announcement](https://johnnydecimal.com/22.00.0118/)
-- [22.00.0117 Things: principles and priorities - part 2 🎬](https://johnnydecimal.com/22.00.0117/)
-- [22.00.0116 Data [SBS.14.22]](https://johnnydecimal.com/22.00.0116/)
-- [22.00.0115 Storage, data, &amp; backups [SBS.14.20]](https://johnnydecimal.com/22.00.0115/)
 <!-- old-sub:END -->
