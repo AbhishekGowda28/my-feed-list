@@ -3,11 +3,11 @@
 ## TotalTypescript
 
 <!-- TotalTypescript:START -->
+- [Most devs don&#39;t know how LLM tokens work](https://www.youtube.com/shorts/IVZ2OL8mU8c)
+- [Yes, LLM&#39;s can produce more than just text](https://www.youtube.com/shorts/AFM2N9ifYFI)
 - [A GORGEOUS component library for AI-powered apps](https://www.youtube.com/shorts/1yoW9OH9YAk)
 - [Most companies are NOT READY for background agents](https://www.youtube.com/shorts/xnUYnd-Pgeg)
 - [The unreadable library that captured my heart](https://www.youtube.com/shorts/UW13VOdqb7o)
-- [Effect: the unreadable library that captured my heart](https://www.youtube.com/watch?v=S2GChOwivwQ)
-- [The ESSENTIAL resource for improving your prompting](https://www.youtube.com/shorts/fhCEwk7NmC0)
 <!-- TotalTypescript:END -->
 
 ## Paul Grahm feeds
