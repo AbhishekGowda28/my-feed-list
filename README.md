@@ -23,11 +23,11 @@
 ## Martin Fowler feed
 
 <!-- martinfowler:START -->
+- [To vibe or not to vibe](https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html)
 - [Some thoughts on LLMs and Software Development](https://martinfowler.com/articles/202508-ai-thoughts.html)
 - [From Black Box to Blueprint](https://martinfowler.com/articles/black-box-to-blueprint.html)
 - [Research, Review, Rebuild: Intelligent Modernisation with MCP and Strategic Prompting](https://martinfowler.com/articles/research-review-rebuild.html)
 - [Building your own CLI Coding Agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html)
-- [Chatting with Unmesh about building language with LLMs](https://martinfowler.com/articles/convo-llm-abstractions.html)
 <!-- martinfowler:END -->
 
 ## Addy Osmani
