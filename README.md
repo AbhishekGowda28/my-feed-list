@@ -3,11 +3,11 @@
 ## TotalTypescript
 
 <!-- TotalTypescript:START -->
-- [What messages you send to the LLM actually look like](https://www.youtube.com/shorts/WwRE-SKdmKs)
-- [Most devs don&#39;t know how LLM tokens work](https://www.youtube.com/shorts/IVZ2OL8mU8c)
-- [Yes, LLM&#39;s can produce more than just text](https://www.youtube.com/shorts/AFM2N9ifYFI)
-- [A GORGEOUS component library for AI-powered apps](https://www.youtube.com/shorts/1yoW9OH9YAk)
-- [Most companies are NOT READY for background agents](https://www.youtube.com/shorts/xnUYnd-Pgeg)
+- [What even are Agents and Workflows?](https://www.youtube.com/shorts/kDnxr8W-bdE)
+- [AI Agents are SO simple to build](https://www.youtube.com/shorts/VxDNUKw83PY)
+- [Passing JSON to an LLM is SUPER wasteful](https://www.youtube.com/shorts/YjPD9Alf1co)
+- [Stop stuffing your context window &lpar;here&#39;s why&rpar;](https://www.youtube.com/shorts/9P36wMntNSI)
+- [How LLM tools work under the hood](https://www.youtube.com/shorts/V94BUC1kop8)
 <!-- TotalTypescript:END -->
 
 ## Paul Grahm feeds
