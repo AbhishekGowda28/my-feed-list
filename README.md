@@ -69,14 +69,14 @@
 
 ## Old feeds
 <!-- old-sub:START -->
+- [22.00.0134 The previous post has been updated](https://johnnydecimal.com/22.00.0134/)
+- [22.00.0133 Extend-the-end: a deep-dive](https://johnnydecimal.com/22.00.0133/)
+- [22.00.0132 Personal and work systems: how do they interact?](https://johnnydecimal.com/22.00.0132/)
+- [22.00.0131 Your computer is your workshop](https://johnnydecimal.com/22.00.0131/)
+- [22.00.0130 Obsidian tip: link directly to a header](https://johnnydecimal.com/22.00.0130/)
+- [22.00.0129 Tags are contextless](https://johnnydecimal.com/22.00.0129/)
+- [22.00.0126 Don&#39;t be lazy, don&#39;t be stupid](https://johnnydecimal.com/22.00.0126/)
+- [22.00.0128 JDU Task &amp; Project Management course: quick update](https://johnnydecimal.com/22.00.0128/)
+- [22.00.0127 Tags are dumb. I&#39;m going to fix tags](https://johnnydecimal.com/22.00.0127/)
 - [15.04 Small Business System](https://johnnydecimal.com/10-19-concepts/15-patterns-templates/15.04-small-business-system/)
-- [15.03 Life Admin System](https://johnnydecimal.com/10-19-concepts/15-patterns-templates/15.03-life-admin-system/)
-- [22.00.0125 I created my own platform](https://johnnydecimal.com/22.00.0125/)
-- [01.03 Policies](https://johnnydecimal.com/00-09-site-administration/01-about/01.03-policies/)
-- [22.00.0124 Be who you are](https://johnnydecimal.com/22.00.0124/)
-- [22.00.0123 Online reviews are dead](https://johnnydecimal.com/22.00.0123/)
-- [22.00.0122 Email](https://johnnydecimal.com/22.00.0122/)
-- [22.00.0121 Things: processing your categories - part 3 🎬](https://johnnydecimal.com/22.00.0121/)
-- [22.00.0120 Backups [SBS.14.23]](https://johnnydecimal.com/22.00.0120/)
-- [22.00.0119 Synchronisation [SBS.14.22]](https://johnnydecimal.com/22.00.0119/)
 <!-- old-sub:END -->
