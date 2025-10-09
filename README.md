@@ -3,11 +3,11 @@
 ## TotalTypescript
 
 <!-- TotalTypescript:START -->
+- [OpenAI just confused everyone again](https://www.youtube.com/watch?v=AtYtuVTZCQU)
+- [Make Claude Code give you answers, not essays](https://www.youtube.com/shorts/I12Mf8KBT1I)
+- [Tell your LLM to SACRIFICE GRAMMAR](https://www.youtube.com/shorts/Mhy_n83V5pc)
 - [The hidden security risk in your system prompts](https://www.youtube.com/shorts/2U8z7y3uTYE)
 - [Stop giving your LLM more tools](https://www.youtube.com/shorts/_1KrC_5Xv4s)
-- [What even are Agents and Workflows?](https://www.youtube.com/shorts/kDnxr8W-bdE)
-- [AI Agents are SO simple to build](https://www.youtube.com/shorts/VxDNUKw83PY)
-- [Passing JSON to an LLM is SUPER wasteful](https://www.youtube.com/shorts/YjPD9Alf1co)
 <!-- TotalTypescript:END -->
 
 ## Paul Grahm feeds
