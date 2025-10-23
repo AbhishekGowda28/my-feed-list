@@ -3,11 +3,11 @@
 ## TotalTypescript
 
 <!-- TotalTypescript:START -->
-- [OpenAI just confused everyone again](https://www.youtube.com/watch?v=AtYtuVTZCQU)
+- [Most devs don’t understand how context windows work](https://www.youtube.com/watch?v=-uW5-TaVXu4)
+- [AI Agents, workflows, and why they matter](https://www.youtube.com/watch?v=AtYtuVTZCQU)
 - [Make Claude Code give you answers, not essays](https://www.youtube.com/shorts/I12Mf8KBT1I)
 - [Tell your LLM to SACRIFICE GRAMMAR](https://www.youtube.com/shorts/Mhy_n83V5pc)
 - [The hidden security risk in your system prompts](https://www.youtube.com/shorts/2U8z7y3uTYE)
-- [Stop giving your LLM more tools](https://www.youtube.com/shorts/_1KrC_5Xv4s)
 <!-- TotalTypescript:END -->
 
 ## Paul Grahm feeds
