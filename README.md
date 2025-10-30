@@ -3,11 +3,11 @@
 ## TotalTypescript
 
 <!-- TotalTypescript:START -->
+- [How I use Claude Code for real engineering](https://www.youtube.com/watch?v=kZ-zzHVUrO4)
+- [AI SDK 6 is SWEET](https://www.youtube.com/watch?v=YCrj0E_P6ls)
 - [Most devs don’t understand how context windows work](https://www.youtube.com/watch?v=-uW5-TaVXu4)
-- [AI Agents, workflows, and why they matter](https://www.youtube.com/watch?v=AtYtuVTZCQU)
+- [Most devs don&#39;t understand what AI agents are](https://www.youtube.com/watch?v=AtYtuVTZCQU)
 - [Make Claude Code give you answers, not essays](https://www.youtube.com/shorts/I12Mf8KBT1I)
-- [Tell your LLM to SACRIFICE GRAMMAR](https://www.youtube.com/shorts/Mhy_n83V5pc)
-- [The hidden security risk in your system prompts](https://www.youtube.com/shorts/2U8z7y3uTYE)
 <!-- TotalTypescript:END -->
 
 ## Paul Grahm feeds
