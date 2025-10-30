@@ -23,11 +23,11 @@
 ## Martin Fowler feed
 
 <!-- martinfowler:START -->
+- [Agentic AI and Security](https://martinfowler.com/articles/agentic-ai-security.html)
 - [Fragments and Links](https://martinfowler.com/articles/20251021-frags.html)
 - [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
 - [Anchoring AI to a reference application](https://martinfowler.com/articles/exploring-gen-ai/anchoring-to-reference.html)
 - [To vibe or not to vibe](https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html)
-- [Some thoughts on LLMs and Software Development](https://martinfowler.com/articles/202508-ai-thoughts.html)
 <!-- martinfowler:END -->
 
 ## Addy Osmani
