@@ -69,14 +69,14 @@
 
 ## Old feeds
 <!-- old-sub:START -->
-- [22.00.0134 The previous post has been updated](https://johnnydecimal.com/22.00.0134/)
-- [22.00.0133 Extend-the-end: a deep-dive](https://johnnydecimal.com/22.00.0133/)
-- [22.00.0132 Personal and work systems: how do they interact?](https://johnnydecimal.com/22.00.0132/)
-- [22.00.0131 Your computer is your workshop](https://johnnydecimal.com/22.00.0131/)
-- [22.00.0130 Obsidian tip: link directly to a header](https://johnnydecimal.com/22.00.0130/)
-- [22.00.0129 Tags are contextless](https://johnnydecimal.com/22.00.0129/)
-- [22.00.0126 Don&#39;t be lazy, don&#39;t be stupid](https://johnnydecimal.com/22.00.0126/)
-- [22.00.0128 JDU Task &amp; Project Management course: quick update](https://johnnydecimal.com/22.00.0128/)
-- [22.00.0127 Tags are dumb. I&#39;m going to fix tags](https://johnnydecimal.com/22.00.0127/)
-- [15.04 Small Business System](https://johnnydecimal.com/10-19-concepts/15-patterns-templates/15.04-small-business-system/)
+- [22.00.0159 Deliberately](https://johnnydecimal.com/22.00.0159/)
+- [22.00.0158 Personal Business](https://johnnydecimal.com/22.00.0158/)
+- [22.00.0157 Decimal Diary: Confronting mortality and messy passwords](https://johnnydecimal.com/22.00.0157/)
+- [22.00.0156 A nice JDex entry: 14.32+1Password](https://johnnydecimal.com/22.00.0156/)
+- [22.00.0155 The front door and the elephant](https://johnnydecimal.com/22.00.0155/)
+- [22.00.0154 Mitsu-bishi 9852](https://johnnydecimal.com/22.00.0154/)
+- [22.00.0153 Bum Man [safe!]](https://johnnydecimal.com/22.00.0153/)
+- [22.00.0152 The Japanese web is delightful](https://johnnydecimal.com/22.00.0152/)
+- [22.00.0151 Automated organisation?](https://johnnydecimal.com/22.00.0151/)
+- [22.00.0150 Decimal Diary: Data leaks and credit reports](https://johnnydecimal.com/22.00.0150/)
 <!-- old-sub:END -->
