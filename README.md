@@ -33,16 +33,16 @@
 ## Addy Osmani
 
 <!-- addyo:START -->
+- [High Agency Matters](https://addyosmani.com/blog/high-agency-matters/)
+- [Background Coding Agents: Are You a Coder... or an AI &quot;Orchestrator&quot;?](https://www.youtube.com/watch?v=sQFIiB6xtIs)
+- [The History of Core Web Vitals](https://addyosmani.com/blog/core-web-vitals/)
 - [Announcing Chrome DevTools MCP! 🚀 Connect your AI coding agent to Chrome&#39;s powerful debugger free](https://www.youtube.com/watch?v=q1vlGUKjfeY)
 - [Give your AI eyes: Introducing Chrome DevTools MCP](https://addyosmani.com/blog/devtools-mcp/)
 - [Google just put Gemini AI directly into Chrome](https://www.youtube.com/watch?v=VOaLXWJhPhI)
-- [Free ~14 minute talk on Context Engineering tips &amp; tricks - X](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aaUZoOUZZWGszTmJCYmRvVFJONUpWOGhMRmF2RUd5SS1UQ0VHNnpENXpUXzJiUFpwY1g0MllUSlFCTE9ROVMzVGVTMmlpTXpvZTZPRUswUUVUcjJ3UVJfWUxVaWhkNzI2?oc=5)
 - [Stop Wasting Tokens: The Art of Context Engineering](https://www.youtube.com/watch?v=zMM5zqesL1g)
 - [Google Chrome at 17 - A history of our browser](https://addyosmani.com/blog/chrome-17th/)
 - [Gemini&#39;s New Image Model is a Game-Changer! Here&#39;s Nano Banana! &lpar;Gemini 2.5 Flash Image&rpar;](https://www.youtube.com/watch?v=wXYQEaWM-rw)
 - [Chrome&#39;s Built-in AI in 3 min - The Prompt API](https://www.youtube.com/watch?v=YkUcxX49Rqw)
-- [An Engineer&#39;s Guide to AI Code Model Evals](https://addyosmani.com/blog/ai-evals/)
-- [Vibe code apps with Firebase Studio - Build a Movies app with Auth, Favorites and AI recommendations](https://www.youtube.com/watch?v=kyKPljNvuac)
 <!-- addyo:END -->
 
 
