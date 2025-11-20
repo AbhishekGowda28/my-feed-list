@@ -23,11 +23,11 @@
 ## Martin Fowler feed
 
 <!-- martinfowler:START -->
+- [Fragments Nov 19](https://martinfowler.com/articles/2025-11-19-frags.html)
+- [My Foreword to &quot;Frictionless&quot;](https://martinfowler.com/articles/frictionless-foreword.html)
 - [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html)
 - [Fragments Nov 3](https://martinfowler.com/articles/2025-11-03-frags.html)
 - [Agentic AI and Security](https://martinfowler.com/articles/agentic-ai-security.html)
-- [Fragments and Links](https://martinfowler.com/articles/20251021-frags.html)
-- [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
 <!-- martinfowler:END -->
 
 ## Addy Osmani
