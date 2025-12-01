@@ -33,6 +33,9 @@
 ## Addy Osmani
 
 <!-- addyo:START -->
+- [What&#39;s New in Gemini 3.0](https://addyosmani.com/blog/gemini-3/)
+- [Introducing Gemini 3.0 - Google&#39;s most powerful model for vibe-coding](https://www.youtube.com/watch?v=fUNVhN8YE9o)
+- [Introducing Nano Banana Pro! State of the art image generation](https://www.youtube.com/watch?v=WlOJuMVu6hU)
 - [High Agency Matters](https://addyosmani.com/blog/high-agency-matters/)
 - [Background Coding Agents: Are You a Coder... or an AI &quot;Orchestrator&quot;?](https://www.youtube.com/watch?v=sQFIiB6xtIs)
 - [The History of Core Web Vitals](https://addyosmani.com/blog/core-web-vitals/)
@@ -40,9 +43,6 @@
 - [Give your AI eyes: Introducing Chrome DevTools MCP](https://addyosmani.com/blog/devtools-mcp/)
 - [Google just put Gemini AI directly into Chrome](https://www.youtube.com/watch?v=VOaLXWJhPhI)
 - [Stop Wasting Tokens: The Art of Context Engineering](https://www.youtube.com/watch?v=zMM5zqesL1g)
-- [Google Chrome at 17 - A history of our browser](https://addyosmani.com/blog/chrome-17th/)
-- [Gemini&#39;s New Image Model is a Game-Changer! Here&#39;s Nano Banana! &lpar;Gemini 2.5 Flash Image&rpar;](https://www.youtube.com/watch?v=wXYQEaWM-rw)
-- [Chrome&#39;s Built-in AI in 3 min - The Prompt API](https://www.youtube.com/watch?v=YkUcxX49Rqw)
 <!-- addyo:END -->
 
 
