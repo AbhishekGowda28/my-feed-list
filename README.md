@@ -69,14 +69,14 @@
 
 ## Old feeds
 <!-- old-sub:START -->
-- [22.00.0159 Deliberately](https://johnnydecimal.com/22.00.0159/)
-- [22.00.0158 Personal Business](https://johnnydecimal.com/22.00.0158/)
-- [22.00.0157 Decimal Diary: Confronting mortality and messy passwords](https://johnnydecimal.com/22.00.0157/)
-- [22.00.0156 A nice JDex entry: 14.32+1Password](https://johnnydecimal.com/22.00.0156/)
-- [22.00.0155 The front door and the elephant](https://johnnydecimal.com/22.00.0155/)
-- [22.00.0154 Mitsu-bishi 9852](https://johnnydecimal.com/22.00.0154/)
-- [22.00.0153 Bum Man [safe!]](https://johnnydecimal.com/22.00.0153/)
-- [22.00.0152 The Japanese web is delightful](https://johnnydecimal.com/22.00.0152/)
-- [22.00.0151 Automated organisation?](https://johnnydecimal.com/22.00.0151/)
-- [22.00.0150 Decimal Diary: Data leaks and credit reports](https://johnnydecimal.com/22.00.0150/)
+- [22.00.0170 Decimal Diary: TGIF and vintage annual reports](https://johnnydecimal.com/22.00.0170/)
+- [14.04 Task and Project Management](https://johnnydecimal.com/10-19-concepts/14-build-your-system/14.04-task-and-project-management/)
+- [14.03 The Workshop](https://johnnydecimal.com/10-19-concepts/14-build-your-system/14.03-workshop/)
+- [22.00.0169 An invoice disappears](https://johnnydecimal.com/22.00.0169/)
+- [22.00.0168 How to remember the Markdown link syntax](https://johnnydecimal.com/22.00.0168/)
+- [22.00.0167 An&lpar;other&rpar; advantage of the creative pattern](https://johnnydecimal.com/22.00.0167/)
+- [22.00.0166 Decimal Diary: Business links and food trucks](https://johnnydecimal.com/22.00.0166/)
+- [22.00.0165 Find the hidden option](https://johnnydecimal.com/22.00.0165/)
+- [22.00.0164 🎁 Holiday season 2025: Buy one, gift one](https://johnnydecimal.com/22.00.0164/)
+- [22.00.0163 /tmp is bad](https://johnnydecimal.com/22.00.0163/)
 <!-- old-sub:END -->
