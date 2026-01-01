@@ -69,14 +69,14 @@
 
 ## Old feeds
 <!-- old-sub:START -->
+- [22.00.0179 The two-tea-towel method](https://johnnydecimal.com/22.00.0179/)
+- [22.00.0178 Lazy shortcuts lead to mistakes](https://johnnydecimal.com/22.00.0178/)
+- [22.00.0176 Standard zero &#39;AC.00 JDex for …&#39; – what&#39;s it for?](https://johnnydecimal.com/22.00.0176/)
+- [22.00.0177 &#39;Restore points&#39; vs. &#39;backups&#39;](https://johnnydecimal.com/22.00.0177/)
+- [22.00.0175 Commercial licence](https://johnnydecimal.com/22.00.0175/)
+- [22.00.0174 Finder folders to Markdown links in Bear](https://johnnydecimal.com/22.00.0174/)
+- [22.00.0173 Obsidian links &lpar;redux&rpar;](https://johnnydecimal.com/22.00.0173/)
+- [22.00.0172 Terminal tricks](https://johnnydecimal.com/22.00.0172/)
+- [22.00.0171 Configuration management](https://johnnydecimal.com/22.00.0171/)
 - [22.00.0170 Decimal Diary: TGIF and vintage annual reports](https://johnnydecimal.com/22.00.0170/)
-- [14.04 Task and Project Management](https://johnnydecimal.com/10-19-concepts/14-build-your-system/14.04-task-and-project-management/)
-- [14.03 The Workshop](https://johnnydecimal.com/10-19-concepts/14-build-your-system/14.03-workshop/)
-- [22.00.0169 An invoice disappears](https://johnnydecimal.com/22.00.0169/)
-- [22.00.0168 How to remember the Markdown link syntax](https://johnnydecimal.com/22.00.0168/)
-- [22.00.0167 An&lpar;other&rpar; advantage of the creative pattern](https://johnnydecimal.com/22.00.0167/)
-- [22.00.0166 Decimal Diary: Business links and food trucks](https://johnnydecimal.com/22.00.0166/)
-- [22.00.0165 Find the hidden option](https://johnnydecimal.com/22.00.0165/)
-- [22.00.0164 🎁 Holiday season 2025: Buy one, gift one](https://johnnydecimal.com/22.00.0164/)
-- [22.00.0163 /tmp is bad](https://johnnydecimal.com/22.00.0163/)
 <!-- old-sub:END -->
