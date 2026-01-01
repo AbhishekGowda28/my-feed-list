@@ -3,11 +3,11 @@
 ## TotalTypescript
 
 <!-- TotalTypescript:START -->
-- [How I use Claude Code for real engineering](https://www.youtube.com/watch?v=kZ-zzHVUrO4)
-- [AI SDK 6 is SWEET](https://www.youtube.com/watch?v=YCrj0E_P6ls)
-- [Most devs don’t understand how context windows work](https://www.youtube.com/watch?v=-uW5-TaVXu4)
-- [Most devs don&#39;t understand what agents are](https://www.youtube.com/watch?v=AtYtuVTZCQU)
-- [Make Claude Code give you answers, not essays](https://www.youtube.com/shorts/I12Mf8KBT1I)
+- [Cursor Rules for Better AI Development &lpar;article&rpar;](https://www.totaltypescript.com/cursor-rules-for-better-ai-development)
+- [Should You Declare Return Types? &lpar;article&rpar;](https://www.totaltypescript.com/should-you-declare-return-types)
+- [TypeScript Announces Go Rewrite, Achieves 10x Speedup &lpar;article&rpar;](https://www.totaltypescript.com/typescript-announces-go-rewrite)
+- [TypeScript 5.8 Ships --erasableSyntaxOnly To Disable Enums &lpar;article&rpar;](https://www.totaltypescript.com/erasable-syntax-only)
+- [Node.js Now Supports TypeScript By Default &lpar;article&rpar;](https://www.totaltypescript.com/typescript-is-coming-to-node-23)
 <!-- TotalTypescript:END -->
 
 ## Paul Grahm feeds
