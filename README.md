@@ -23,11 +23,11 @@
 ## Martin Fowler feed
 
 <!-- martinfowler:START -->
+- [My favorite musical discoveries of 2025](https://martinfowler.com/articles/2025-music.html)
 - [Fragments: January  8](https://martinfowler.com/fragments/2026-01-08.html)
 - [Fragments: December 16](https://martinfowler.com/fragments/2025-12-16.html)
 - [Writing Fragments](https://martinfowler.com/articles/writing-fragments.html)
 - [Fragments Dec 11](https://martinfowler.com/articles/2025-12-11-frags.html)
-- [Fragments Dec 4](https://martinfowler.com/articles/20251204-frags.html)
 <!-- martinfowler:END -->
 
 ## Addy Osmani
