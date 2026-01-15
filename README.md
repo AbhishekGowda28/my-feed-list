@@ -3,11 +3,11 @@
 ## TotalTypescript
 
 <!-- TotalTypescript:START -->
+- [Frontend is HARDER for AI than backend &lpar;here&#39;s how to fix it&rpar;](https://www.youtube.com/watch?v=pSritFeoYFo)
 - [Ship working code while you sleep with the Ralph Wiggum technique](https://www.youtube.com/watch?v=_IK18goX4X8)
 - [How I use Claude Code for real engineering](https://www.youtube.com/watch?v=kZ-zzHVUrO4)
 - [AI SDK 6 is SWEET](https://www.youtube.com/watch?v=YCrj0E_P6ls)
 - [Most devs don’t understand how context windows work](https://www.youtube.com/watch?v=-uW5-TaVXu4)
-- [Most devs don&#39;t understand what agents are](https://www.youtube.com/watch?v=AtYtuVTZCQU)
 <!-- TotalTypescript:END -->
 
 ## Paul Grahm feeds
