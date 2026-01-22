@@ -3,11 +3,11 @@
 ## TotalTypescript
 
 <!-- TotalTypescript:START -->
+- [LIVE: Chat with AI Coding Wizard Dex Horthy](https://www.youtube.com/watch?v=NKu3T9FUjmU)
 - [I was an AI skeptic. Then I tried plan mode](https://www.youtube.com/watch?v=WNx-s-RxVxk)
 - [Frontend is HARDER for AI than backend &lpar;here&#39;s how to fix it&rpar;](https://www.youtube.com/watch?v=pSritFeoYFo)
 - [Ship working code while you sleep with the Ralph Wiggum technique](https://www.youtube.com/watch?v=_IK18goX4X8)
 - [How I use Claude Code for real engineering](https://www.youtube.com/watch?v=kZ-zzHVUrO4)
-- [AI SDK 6 is SWEET](https://www.youtube.com/watch?v=YCrj0E_P6ls)
 <!-- TotalTypescript:END -->
 
 ## Paul Grahm feeds
