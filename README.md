@@ -23,11 +23,11 @@
 ## Martin Fowler feed
 
 <!-- martinfowler:START -->
+- [Conversation: LLMs and the what/how loop](https://martinfowler.com/articles/convo-what-how.html)
 - [Stop Picking Sides: Manage the Tension Between Adaptation and                Optimization](https://martinfowler.com/articles/stop-picking-sides.html)
 - [My favorite musical discoveries of 2025](https://martinfowler.com/articles/2025-music.html)
 - [Fragments: January  8](https://martinfowler.com/fragments/2026-01-08.html)
 - [Fragments: December 16](https://martinfowler.com/fragments/2025-12-16.html)
-- [Writing Fragments](https://martinfowler.com/articles/writing-fragments.html)
 <!-- martinfowler:END -->
 
 ## Addy Osmani
