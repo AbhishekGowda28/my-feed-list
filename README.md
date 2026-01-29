@@ -23,11 +23,11 @@
 ## Martin Fowler feed
 
 <!-- martinfowler:START -->
+- [Bliki: Excessive Bold](https://martinfowler.com/bliki/ExcessiveBold.html)
+- [Assessing internal quality while coding with an agent](https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html)
 - [Fragments: January 22](https://martinfowler.com/fragments/2026-01-22.html)
 - [Conversation: LLMs and the what/how loop](https://martinfowler.com/articles/convo-what-how.html)
 - [Stop Picking Sides: Manage the Tension Between Adaptation and                Optimization](https://martinfowler.com/articles/stop-picking-sides.html)
-- [My favorite musical discoveries of 2025](https://martinfowler.com/articles/2025-music.html)
-- [Fragments: January  8](https://martinfowler.com/fragments/2026-01-08.html)
 <!-- martinfowler:END -->
 
 ## Addy Osmani
