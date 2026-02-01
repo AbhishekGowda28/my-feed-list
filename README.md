@@ -33,16 +33,16 @@
 ## Addy Osmani
 
 <!-- addyo:START -->
+- [Self-Improving Coding Agents](https://addyosmani.com/blog/self-improving-agents/)
+- [How to write a good spec for AI agents](https://addyosmani.com/blog/good-spec/)
+- [Your AI coding agents need a manager](https://addyosmani.com/blog/coding-agents-manager/)
+- [AI writes code faster. Your job is still to prove it works.](https://addyosmani.com/blog/code-review-ai/)
+- [The Next Two Years of Software Engineering](https://addyosmani.com/blog/next-two-years/)
+- [My LLM coding workflow going into 2026](https://addyosmani.com/blog/ai-coding-workflow/)
+- [21 Lessons From 14 Years at Google](https://addyosmani.com/blog/21-lessons/)
+- [The future of agentic coding: conductors to orchestrators](https://addyosmani.com/blog/future-agentic-coding/)
+- [Gemini CLI Tips and Tricks](https://addyosmani.com/blog/gemini-cli/)
 - [The Efficiency Paradox: Why Making Software Easier to Write Means We&#39;ll Write Exponentially More](https://addyosmani.com/blog/the-efficiency-paradox/)
-- [Introducing Gemini 3 Flash](https://www.youtube.com/watch?v=gi3cr9ucJx8)
-- [Introducing Gemini 3 Flash](https://addyosmani.com/blog/gemini-3-flash/)
-- [Hello, Gemini.](https://addyosmani.com/blog/hello-gemini/)
-- [Farewell for now, Chrome.](https://addyosmani.com/blog/farewell-chrome/)
-- [What&#39;s New in Gemini 3.0](https://addyosmani.com/blog/gemini-3/)
-- [Introducing Gemini 3.0 - Google&#39;s most powerful model for vibe-coding](https://www.youtube.com/watch?v=fUNVhN8YE9o)
-- [Introducing Nano Banana Pro! State of the art image generation](https://www.youtube.com/watch?v=WlOJuMVu6hU)
-- [High Agency Matters](https://addyosmani.com/blog/high-agency-matters/)
-- [Background Coding Agents: Are You a Coder... or an AI &quot;Orchestrator&quot;?](https://www.youtube.com/watch?v=sQFIiB6xtIs)
 <!-- addyo:END -->
 
 
