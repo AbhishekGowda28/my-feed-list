@@ -23,11 +23,11 @@
 ## Martin Fowler feed
 
 <!-- martinfowler:START -->
+- [Context Engineering for Coding Agents](https://martinfowler.com/articles/exploring-gen-ai/context-engineering-coding-agents.html)
 - [Fragments: February  4](https://martinfowler.com/fragments/2026-02-04.html)
 - [Bliki: Excessive Bold](https://martinfowler.com/bliki/ExcessiveBold.html)
 - [Assessing internal quality while coding with an agent](https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html)
 - [Fragments: January 22](https://martinfowler.com/fragments/2026-01-22.html)
-- [Conversation: LLMs and the what/how loop](https://martinfowler.com/articles/convo-what-how.html)
 <!-- martinfowler:END -->
 
 ## Addy Osmani
