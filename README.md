@@ -23,11 +23,11 @@
 ## Martin Fowler feed
 
 <!-- martinfowler:START -->
+- [Fragments: February 19](https://martinfowler.com/fragments/2026-02-19.html)
+- [Bliki: Host Leadership](https://martinfowler.com/bliki/HostLeadership.html)
 - [Fragments: February 18](https://martinfowler.com/fragments/2026-02-18.html)
 - [Bliki: Agentic Email](https://martinfowler.com/bliki/AgenticEmail.html)
 - [Harness Engineering](https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html)
-- [Fragments: February 13](https://martinfowler.com/fragments/2026-02-13.html)
-- [Fragments: February  9](https://martinfowler.com/fragments/2026-02-09.html)
 <!-- martinfowler:END -->
 
 ## Addy Osmani
