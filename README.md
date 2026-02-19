@@ -23,11 +23,11 @@
 ## Martin Fowler feed
 
 <!-- martinfowler:START -->
+- [Fragments: February 18](https://martinfowler.com/fragments/2026-02-18.html)
+- [Bliki: Agentic Email](https://martinfowler.com/bliki/AgenticEmail.html)
+- [Harness Engineering](https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html)
+- [Fragments: February 13](https://martinfowler.com/fragments/2026-02-13.html)
 - [Fragments: February  9](https://martinfowler.com/fragments/2026-02-09.html)
-- [Context Engineering for Coding Agents](https://martinfowler.com/articles/exploring-gen-ai/context-engineering-coding-agents.html)
-- [Fragments: February  4](https://martinfowler.com/fragments/2026-02-04.html)
-- [Bliki: Excessive Bold](https://martinfowler.com/bliki/ExcessiveBold.html)
-- [Assessing internal quality while coding with an agent](https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html)
 <!-- martinfowler:END -->
 
 ## Addy Osmani
