@@ -69,6 +69,9 @@
 
 ## Old feeds
 <!-- old-sub:START -->
+- [22.00.0184 February&#39;s YouTube roundup](https://johnnydecimal.com/22.00.0184/)
+- [22.00.0183 The &#39;work log&#39;](https://johnnydecimal.com/22.00.0183/)
+- [22.00.0182 JDex deep-dive: data and storage options](https://johnnydecimal.com/22.00.0182/)
 - [22.00.0181 &#39;Powered by Johnny.Decimal&#39; badge](https://johnnydecimal.com/22.00.0181/)
 - [22.00.0180 Backups aren&#39;t enough: create &#39;restore points&#39;](https://johnnydecimal.com/22.00.0180/)
 - [22.00.0179 The two-tea-towel method](https://johnnydecimal.com/22.00.0179/)
@@ -76,7 +79,4 @@
 - [22.00.0176 Standard zero &#39;AC.00 JDex for …&#39; – what&#39;s it for?](https://johnnydecimal.com/22.00.0176/)
 - [22.00.0175 Commercial licence](https://johnnydecimal.com/22.00.0175/)
 - [22.00.0174 Finder folders to Markdown links in Bear](https://johnnydecimal.com/22.00.0174/)
-- [22.00.0173 Obsidian links &lpar;redux&rpar;](https://johnnydecimal.com/22.00.0173/)
-- [22.00.0172 Terminal tricks](https://johnnydecimal.com/22.00.0172/)
-- [22.00.0171 Configuration management](https://johnnydecimal.com/22.00.0171/)
 <!-- old-sub:END -->
