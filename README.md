@@ -33,16 +33,16 @@
 ## Addy Osmani
 
 <!-- addyo:START -->
+- [The Factory Model: How Coding Agents Changed Software Engineering](https://addyosmani.com/blog/factory-model/)
+- [Stop Using /init for AGENTS.md](https://addyosmani.com/blog/agents-md/)
+- [Bias Toward Action](https://addyosmani.com/blog/bias-towards-action/)
+- [14 More Lessons from 14 years at Google](https://addyosmani.com/blog/14-more-lessons/)
+- [Claude Code Swarms](https://addyosmani.com/blog/claude-code-agent-teams/)
+- [Agentic Engineering](https://addyosmani.com/blog/agentic-engineering/)
 - [Self-Improving Coding Agents](https://addyosmani.com/blog/self-improving-agents/)
 - [How to write a good spec for AI agents](https://addyosmani.com/blog/good-spec/)
 - [Your AI coding agents need a manager](https://addyosmani.com/blog/coding-agents-manager/)
 - [AI writes code faster. Your job is still to prove it works.](https://addyosmani.com/blog/code-review-ai/)
-- [The Next Two Years of Software Engineering](https://addyosmani.com/blog/next-two-years/)
-- [My LLM coding workflow going into 2026](https://addyosmani.com/blog/ai-coding-workflow/)
-- [21 Lessons From 14 Years at Google](https://addyosmani.com/blog/21-lessons/)
-- [The future of agentic coding: conductors to orchestrators](https://addyosmani.com/blog/future-agentic-coding/)
-- [Gemini CLI Tips and Tricks](https://addyosmani.com/blog/gemini-cli/)
-- [The Efficiency Paradox: Why Making Software Easier to Write Means We&#39;ll Write Exponentially More](https://addyosmani.com/blog/the-efficiency-paradox/)
 <!-- addyo:END -->
 
 
