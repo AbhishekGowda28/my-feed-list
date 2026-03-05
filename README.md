@@ -23,11 +23,11 @@
 ## Martin Fowler feed
 
 <!-- martinfowler:START -->
+- [Humans and Agents in Software Engineering Loops](https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html)
+- [Design-First Collaboration](https://martinfowler.com/articles/reduce-friction-ai/design-first-collaboration.html)
 - [Fragments: February 25](https://martinfowler.com/fragments/2026-02-25.html)
 - [Knowledge Priming](https://martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html)
 - [Fragments: February 23](https://martinfowler.com/fragments/2026-02-23.html)
-- [Fragments: February 19](https://martinfowler.com/fragments/2026-02-19.html)
-- [Bliki: Host Leadership](https://martinfowler.com/bliki/HostLeadership.html)
 <!-- martinfowler:END -->
 
 ## Addy Osmani
