@@ -3,11 +3,11 @@
 ## TotalTypescript
 
 <!-- TotalTypescript:START -->
+- [The 7 phases of AI-driven development](https://www.youtube.com/watch?v=Ah9p7v7nJWg)
 - [Your codebase is NOT ready for AI &lpar;here&#39;s how to fix it&rpar;](https://www.youtube.com/watch?v=uC44zFz7JSM)
 - [How to actually force Claude Code to use the right CLI &lpar;don&#39;t use CLAUDE.md&rpar;](https://www.youtube.com/watch?v=3CSi8QAoN-s)
 - [Never Run claude /init](https://www.youtube.com/watch?v=9tmsq-Gvx6g)
 - [Red Green Refactor is OP With Claude Code](https://www.youtube.com/watch?v=hYZdIwFIy-c)
-- [I&#39;m using claude --worktree for everything now](https://www.youtube.com/watch?v=yv8VZpov8bk)
 <!-- TotalTypescript:END -->
 
 ## Paul Grahm feeds
