@@ -23,11 +23,11 @@
 ## Martin Fowler feed
 
 <!-- martinfowler:START -->
+- [Fragments: March 10](https://martinfowler.com/fragments/2026-03-10.html)
 - [Ideological Resistance to Patents, Followed by Reluctant                Pragmatism](https://martinfowler.com/articles/patents-reluctant-pragmatism.html)
 - [Humans and Agents in Software Engineering Loops](https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html)
 - [Design-First Collaboration](https://martinfowler.com/articles/reduce-friction-ai/design-first-collaboration.html)
 - [Fragments: February 25](https://martinfowler.com/fragments/2026-02-25.html)
-- [Knowledge Priming](https://martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html)
 <!-- martinfowler:END -->
 
 ## Addy Osmani
