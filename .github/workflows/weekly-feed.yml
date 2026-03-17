@@ -1,7 +1,7 @@
 name: Latest blog post of TOTAL-TYPESCRIPT
 on:
   schedule: # Run workflow automatically
-    - cron: '* * * * thu' # every thursday
+    - cron: '1 * * * thu' # every thursday
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
   contents: write # To write the generated contents to the readme
@@ -23,5 +23,12 @@ jobs:
         with:
           feed_list: "https://martinfowler.com/feed.atom"
           comment_tag_name: "martinfowler"
+          disable_sort: true
+          disable_item_validation: true
+      - name: Max Woolf - AI guy
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://minimaxir.com/index.xml"
+          comment_tag_name: "Max Woolf"
           disable_sort: true
           disable_item_validation: true
