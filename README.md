@@ -23,11 +23,11 @@
 ## Martin Fowler feed
 
 <!-- martinfowler:START -->
+- [Fragments: March 19](https://martinfowler.com/fragments/2026-03-19.html)
 - [Context Anchoring](https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html)
 - [Fragments: March 16](https://martinfowler.com/fragments/2026-03-16.html)
 - [Fragments: March 10](https://martinfowler.com/fragments/2026-03-10.html)
 - [Ideological Resistance to Patents, Followed by Reluctant                Pragmatism](https://martinfowler.com/articles/patents-reluctant-pragmatism.html)
-- [Humans and Agents in Software Engineering Loops](https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html)
 <!-- martinfowler:END -->
 
 ## Addy Osmani
