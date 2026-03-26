@@ -3,11 +3,11 @@
 ## TotalTypescript
 
 <!-- TotalTypescript:START -->
+- [Claude Code tried to improve /init... Is it any better?](https://www.youtube.com/watch?v=llwTBpPqo9A)
 - [Building a REAL feature with Claude Code: every step explained](https://www.youtube.com/watch?v=hX7yG1KVYhI)
 - [5 Claude Code skills I use every single day](https://www.youtube.com/watch?v=EJyuu6zlQCg)
 - [The 7 phases of AI-driven development](https://www.youtube.com/watch?v=Ah9p7v7nJWg)
 - [Your codebase is NOT ready for AI &lpar;here&#39;s how to fix it&rpar;](https://www.youtube.com/watch?v=uC44zFz7JSM)
-- [How to actually force Claude Code to use the right CLI &lpar;don&#39;t use CLAUDE.md&rpar;](https://www.youtube.com/watch?v=3CSi8QAoN-s)
 <!-- TotalTypescript:END -->
 
 ## Paul Grahm feeds
