@@ -33,6 +33,9 @@
 ## Addy Osmani
 
 <!-- addyo:START -->
+- [The Code Agent Orchestra - what makes multi-agent coding work](https://addyosmani.com/blog/code-agent-orchestra/)
+- [How to write a good spec for AI agents](https://dev.to/addyosmani/how-to-write-a-good-spec-for-ai-agents-31i9)
+- [Comprehension Debt - the hidden cost of AI generated code.](https://addyosmani.com/blog/comprehension-debt/)
 - [The Factory Model: How Coding Agents Changed Software Engineering](https://addyosmani.com/blog/factory-model/)
 - [Stop Using /init for AGENTS.md](https://addyosmani.com/blog/agents-md/)
 - [Bias Toward Action](https://addyosmani.com/blog/bias-towards-action/)
@@ -40,9 +43,6 @@
 - [Claude Code Swarms](https://addyosmani.com/blog/claude-code-agent-teams/)
 - [Agentic Engineering](https://addyosmani.com/blog/agentic-engineering/)
 - [Self-Improving Coding Agents](https://addyosmani.com/blog/self-improving-agents/)
-- [How to write a good spec for AI agents](https://addyosmani.com/blog/good-spec/)
-- [Your AI coding agents need a manager](https://addyosmani.com/blog/coding-agents-manager/)
-- [AI writes code faster. Your job is still to prove it works.](https://addyosmani.com/blog/code-review-ai/)
 <!-- addyo:END -->
 
 
