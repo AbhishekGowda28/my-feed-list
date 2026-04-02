@@ -23,11 +23,11 @@
 ## Martin Fowler feed
 
 <!-- martinfowler:START -->
+- [Encoding Team Standards](https://martinfowler.com/articles/reduce-friction-ai/encoding-team-standards.html)
 - [Fragments: March 26](https://martinfowler.com/fragments/2026-03-26.html)
 - [Bliki: Architecture Decision Record](https://martinfowler.com/bliki/ArchitectureDecisionRecord.html)
 - [Fragments: March 19](https://martinfowler.com/fragments/2026-03-19.html)
 - [Context Anchoring](https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html)
-- [Fragments: March 16](https://martinfowler.com/fragments/2026-03-16.html)
 <!-- martinfowler:END -->
 
 ## Addy Osmani
