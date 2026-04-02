@@ -23,11 +23,11 @@
 ## Martin Fowler feed
 
 <!-- martinfowler:START -->
+- [Fragments: April  2](https://martinfowler.com/fragments/2026-04-02.html)
 - [Harness engineering for coding agent users](https://martinfowler.com/articles/harness-engineering.html)
 - [Encoding Team Standards](https://martinfowler.com/articles/reduce-friction-ai/encoding-team-standards.html)
 - [Fragments: March 26](https://martinfowler.com/fragments/2026-03-26.html)
 - [Bliki: Architecture Decision Record](https://martinfowler.com/bliki/ArchitectureDecisionRecord.html)
-- [Fragments: March 19](https://martinfowler.com/fragments/2026-03-19.html)
 <!-- martinfowler:END -->
 
 ## Addy Osmani
