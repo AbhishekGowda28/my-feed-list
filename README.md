@@ -23,11 +23,11 @@
 ## Martin Fowler feed
 
 <!-- martinfowler:START -->
+- [Fragments: April  9](https://martinfowler.com/fragments/2026-04-09.html)
 - [Feedback Flywheel](https://martinfowler.com/articles/reduce-friction-ai/feedback-flywheel.html)
 - [Principles of Mechanical Sympathy](https://martinfowler.com/articles/mechanical-sympathy-principles.html)
 - [Fragments: April  2](https://martinfowler.com/fragments/2026-04-02.html)
 - [Harness engineering for coding agent users](https://martinfowler.com/articles/harness-engineering.html)
-- [Encoding Team Standards](https://martinfowler.com/articles/reduce-friction-ai/encoding-team-standards.html)
 <!-- martinfowler:END -->
 
 ## Addy Osmani
