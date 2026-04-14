@@ -45,6 +45,15 @@
 - [Self-Improving Coding Agents](https://addyosmani.com/blog/self-improving-agents/)
 <!-- addyo:END -->
 
+## AI
+<!-- Max Woolf:START --> 
+
+<!-- Max Woolf:END -->
+
+## CSS Articles
+<!-- CSS Article:START --> 
+
+<!-- CSS Article:END -->
 
 ## Bookmarks
 
