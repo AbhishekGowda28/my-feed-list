@@ -36,5 +36,7 @@ jobs:
       - name: CSS Articles
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: 'https://www.smashingmagazine.com/feed/, https://css-tricks.com/feed/'
+          feed_list: >-
+            https://www.smashingmagazine.com/feed/, 
+            https://css-tricks.com/feed/
           comment_tag_name: CSS Article
