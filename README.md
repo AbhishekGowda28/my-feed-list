@@ -55,8 +55,12 @@
 <!-- Max Woolf:END -->
 
 ## CSS Articles
-<!-- CSS Article:START --> 
-
+<!-- CSS Article:START -->
+- [The Radio State Machine](https://css-tricks.com/the-radio-state-machine/)
+- [7 View Transitions Recipes to Try](https://css-tricks.com/7-view-transitions-recipes-to-try/)
+- [How To Improve UX In Legacy Systems](https://smashingmagazine.com/2026/04/legacy-systems/)
+- [Selecting a Date Range in CSS](https://css-tricks.com/selecting-a-date-range-in-css/)
+- [Alternatives to the !important Keyword](https://css-tricks.com/alternatives-to-the-important-keyword/)
 <!-- CSS Article:END -->
 
 ## Bookmarks
