@@ -46,8 +46,12 @@
 <!-- addyo:END -->
 
 ## AI
-<!-- Max Woolf:START --> 
-
+<!-- Max Woolf:START -->
+- [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://minimaxir.com/2026/02/ai-agent-coding/)
+- [Nano Banana Pro is the best AI image generator, with caveats](https://minimaxir.com/2025/12/nano-banana-pro/)
+- [Nano Banana can be prompt engineered for extremely nuanced AI image generation](https://minimaxir.com/2025/11/nano-banana-prompts/)
+- [Claude Haiku 4.5 does not appreciate my attempts to jailbreak it](https://minimaxir.com/2025/10/claude-haiku-jailbreak/)
+- [Can modern LLMs actually count the number of b&#39;s in &quot;blueberry&quot;?](https://minimaxir.com/2025/08/llm-blueberry/)
 <!-- Max Woolf:END -->
 
 ## CSS Articles
