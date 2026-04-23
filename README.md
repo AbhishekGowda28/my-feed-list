@@ -56,11 +56,11 @@
 
 ## CSS Articles
 <!-- CSS Article:START -->
+- [Recreating Apple’s Vision Pro Animation in CSS](https://css-tricks.com/recreating-apples-vision-pro-animation-in-css/)
 - [Enhancing Astro With a Markdown Component](https://css-tricks.com/astro-markdown-component/)
 - [The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable](https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/)
 - [Markdown + Astro = ❤️](https://css-tricks.com/markdown-astro/)
 - [Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design](https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/)
-- [What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More](https://css-tricks.com/whats-important-9/)
 <!-- CSS Article:END -->
 
 ## Bookmarks
