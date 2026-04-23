@@ -56,11 +56,11 @@
 
 ## CSS Articles
 <!-- CSS Article:START -->
-- [A Well-Designed JavaScript Module System is Your First Architecture Decision](https://css-tricks.com/the-javascript-module-system-architecture/)
-- [The Radio State Machine](https://css-tricks.com/the-radio-state-machine/)
-- [7 View Transitions Recipes to Try](https://css-tricks.com/7-view-transitions-recipes-to-try/)
-- [How To Improve UX In Legacy Systems](https://smashingmagazine.com/2026/04/legacy-systems/)
-- [Selecting a Date Range in CSS](https://css-tricks.com/selecting-a-date-range-in-css/)
+- [Enhancing Astro With a Markdown Component](https://css-tricks.com/astro-markdown-component/)
+- [The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable](https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/)
+- [Markdown + Astro = ❤️](https://css-tricks.com/markdown-astro/)
+- [Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design](https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/)
+- [What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More](https://css-tricks.com/whats-important-9/)
 <!-- CSS Article:END -->
 
 ## Bookmarks
