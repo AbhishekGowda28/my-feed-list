@@ -23,11 +23,11 @@
 ## Martin Fowler feed
 
 <!-- martinfowler:START -->
+- [Fragments: April 29](https://martinfowler.com/fragments/2026-04-29.html)
+- [Structured-Prompt-Driven Development &lpar;SPDD&rpar;](https://martinfowler.com/articles/structured-prompt-driven/)
 - [Fragments: April 21](https://martinfowler.com/fragments/2026-04-21.html)
 - [Fragments: April 14](https://martinfowler.com/fragments/2026-04-14.html)
 - [Alan Turing play in Cambridge MA](https://martinfowler.com/articles/202604-turing.html)
-- [Fragments: April  9](https://martinfowler.com/fragments/2026-04-09.html)
-- [Feedback Flywheel](https://martinfowler.com/articles/reduce-friction-ai/feedback-flywheel.html)
 <!-- martinfowler:END -->
 
 ## Addy Osmani
