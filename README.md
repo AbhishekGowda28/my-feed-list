@@ -56,11 +56,11 @@
 
 ## CSS Articles
 <!-- CSS Article:START -->
+- [contrast&lpar;&rpar;](https://css-tricks.com/almanac/functions/c/contrast/)
+- [contrast-color&lpar;&rpar;](https://css-tricks.com/almanac/functions/c/contrast-color/)
+- [Let’s Use the Nonexistent ::nth-letter Selector Now](https://css-tricks.com/using-nonexistent-nth-letter-selector-now/)
+- [The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams](https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/)
 - [Recreating Apple’s Vision Pro Animation in CSS](https://css-tricks.com/recreating-apples-vision-pro-animation-in-css/)
-- [Enhancing Astro With a Markdown Component](https://css-tricks.com/astro-markdown-component/)
-- [The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable](https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/)
-- [Markdown + Astro = ❤️](https://css-tricks.com/markdown-astro/)
-- [Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design](https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/)
 <!-- CSS Article:END -->
 
 ## Bookmarks
