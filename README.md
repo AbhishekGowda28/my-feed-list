@@ -3,11 +3,11 @@
 ## TotalTypescript
 
 <!-- TotalTypescript:START -->
-- [Cursor Rules for Better AI Development &lpar;article&rpar;](https://www.totaltypescript.com/cursor-rules-for-better-ai-development)
-- [Should You Declare Return Types? &lpar;article&rpar;](https://www.totaltypescript.com/should-you-declare-return-types)
-- [TypeScript Announces Go Rewrite, Achieves 10x Speedup &lpar;article&rpar;](https://www.totaltypescript.com/typescript-announces-go-rewrite)
-- [TypeScript 5.8 Ships --erasableSyntaxOnly To Disable Enums &lpar;article&rpar;](https://www.totaltypescript.com/erasable-syntax-only)
-- [Node.js Now Supports TypeScript By Default &lpar;article&rpar;](https://www.totaltypescript.com/typescript-is-coming-to-node-23)
+- [How To De-Slop A Codebase Ruined By AI &lpar;with one skill&rpar;](https://www.youtube.com/watch?v=3MP8D-mdheA)
+- [LIVE: Watch me build a brand-new project from scratch](https://www.youtube.com/watch?v=K-mA3MZ_EzU)
+- [Never Trust An LLM](https://www.youtube.com/watch?v=9VNG0h4pLh0)
+- [Claude Code tried to improve /init... Is it any better?](https://www.youtube.com/watch?v=llwTBpPqo9A)
+- [Building a REAL feature with Claude Code: every step explained](https://www.youtube.com/watch?v=hX7yG1KVYhI)
 <!-- TotalTypescript:END -->
 
 ## Paul Grahm feeds
