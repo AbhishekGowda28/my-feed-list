@@ -56,11 +56,11 @@
 
 ## CSS Articles
 <!-- CSS Article:START -->
+- [A Fresh View In May &lpar;2026 Wallpapers Edition&rpar;](https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/)
 - [contrast&lpar;&rpar;](https://css-tricks.com/almanac/functions/c/contrast/)
 - [contrast-color&lpar;&rpar;](https://css-tricks.com/almanac/functions/c/contrast-color/)
 - [Let’s Use the Nonexistent ::nth-letter Selector Now](https://css-tricks.com/using-nonexistent-nth-letter-selector-now/)
 - [The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams](https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/)
-- [Recreating Apple’s Vision Pro Animation in CSS](https://css-tricks.com/recreating-apples-vision-pro-animation-in-css/)
 <!-- CSS Article:END -->
 
 ## Bookmarks
