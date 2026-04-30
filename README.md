@@ -3,11 +3,11 @@
 ## TotalTypescript
 
 <!-- TotalTypescript:START -->
+- [I Open-Sourced My Own AFK Software Factory](https://www.youtube.com/watch?v=E5-QK3CDVQM)
 - [How To De-Slop A Codebase Ruined By AI &lpar;with one skill&rpar;](https://www.youtube.com/watch?v=3MP8D-mdheA)
 - [LIVE: Watch me build a brand-new project from scratch](https://www.youtube.com/watch?v=K-mA3MZ_EzU)
 - [Never Trust An LLM](https://www.youtube.com/watch?v=9VNG0h4pLh0)
 - [Claude Code tried to improve /init... Is it any better?](https://www.youtube.com/watch?v=llwTBpPqo9A)
-- [Building a REAL feature with Claude Code: every step explained](https://www.youtube.com/watch?v=hX7yG1KVYhI)
 <!-- TotalTypescript:END -->
 
 ## Paul Grahm feeds
